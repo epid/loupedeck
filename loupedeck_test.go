@@ -18,7 +18,7 @@ package loupedeck_test
 
 import (
 	"fmt"
-	"github.com/scottlaird/loupedeck"
+	"github.com/epid/loupedeck"
 )
 
 func Example() {

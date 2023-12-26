@@ -1,6 +1,6 @@
 package main
 
-// Demonstration code for using github.com/scottlaird/loupedeck in Go.
+// Demonstration code for using github.com/epid/loupedeck in Go.
 //
 // This creates several buttons and does some back-end logic to use
 // the Loupedeck Live as a sort of minimal smart DMX controller, for
@@ -13,7 +13,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/scottlaird/loupedeck"
+	"github.com/epid/loupedeck"
 	"image"
 	"image/color"
 	"time"

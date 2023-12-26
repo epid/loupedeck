@@ -1,4 +1,4 @@
-module github.com/scottlaird/loupedeck
+module github.com/epid/loupedeck
 
 go 1.21
 
